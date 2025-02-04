@@ -809,6 +809,7 @@ header nav .form i {
     margin: 30px auto;
     display: block;
     width: fit-content;
+    color: black;
 }
 .pricing .box .foot a:hover {
     background-color: var(--main-color);
